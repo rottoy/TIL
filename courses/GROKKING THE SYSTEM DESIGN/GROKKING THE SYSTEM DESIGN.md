@@ -1,10 +1,5 @@
 # GROKKING THE SYSTEM DESIGN
 
-[시스템 디자인 용어 정리](https://www.notion.so/d5d558bb5a524d0f9b62c6a9c8b79b38)
-
-[System Design Problems](https://www.notion.so/System-Design-Problems-ccdc0ce6425f49ba84fc7bb2e6194159)
-
-[Glossary of System Design Basics](https://www.notion.so/Glossary-of-System-Design-Basics-8b1f78412d4d42d88bc79c20e0689669)
 
 엔지니어들은 SDI(System Design Interview) 에 대해 다음 3가지 이유로 인해, 문제를 겪는다.
 
@@ -78,7 +73,7 @@ markTweetFavorite(user_id, tweet_id, timestamp)
 
 그림으로 나타내면 다음과 같다.
 
-![Untitled](GROKKING%20THE%20SYSTEM%20DESIGN%20d8a8c8de4c1443ac9c35a4fc8f5f4c28/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/rottoy/TIL/main/assets/grokking-system-design-01.png)
 
  
 
