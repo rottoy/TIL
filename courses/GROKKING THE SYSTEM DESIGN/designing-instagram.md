@@ -43,7 +43,7 @@
     - 최신과 인덱스는 무슨 연관?
 - RDBMS 와 NoSQL 중에 무엇을 써야 할지도 결정해야 한다.
 - RDBMS(MySQL)
-    - RDBMS를 쓰기엔 약간의 어려움이 있다. ([SQL vs NoSQL](https://www.educative.io/courses/grokking-the-system-design-interview/YQlK1mDPgpK)) ([정리본](https://www.notion.so/SQL-vs-NoSQL-02f3990ece7d4232bf0556669eee382b))
+    - RDBMS를 쓰기엔 약간의 어려움이 있다.
 
 ![스크린샷 2021-09-25 오후 4.15.49.png](https://raw.githubusercontent.com/rottoy/TIL/main/assets/designing-instagram-02.png)
 
@@ -96,7 +96,7 @@
     - 예를 들어, 한 서비스에 2가지 인스턴스가 있다면, 한 인스턴스가 다운되었을 때 복제 인스턴스를 사용하면 된다.
     - Failover(장애 극복 기능)은 자동적이거나 수동 조작을 필요로 한다.
     
-    ![Untitled](Dhttps://raw.githubusercontent.com/rottoy/TIL/main/assets/designing-instagram-03.png)
+    ![Untitled](https://raw.githubusercontent.com/rottoy/TIL/main/assets/designing-instagram-03.png)
     
 1. Data Sharding([Data Sharding 이란?](https://github.com/rottoy/TIL/blob/main/courses/GROKKING%20THE%20SYSTEM%20DESIGN/data-sharding.md))
     1. 유저ID를 기반으로한 파티셔닝
