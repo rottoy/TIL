@@ -93,3 +93,10 @@ markTweetFavorite(user_id, tweet_id, timestamp)
 3. KISS (Keep In Short and Simple, 오컴의 면도날, 논리적 비약 금지)
 4. Don't make points without justification (tell why, form your thoughts) - 근거 없이 주장하지 않기
 5. Be aware of current technologies (existing off-the-shelf solutions)
+
+### System Design Problems
+
+[Designing Instagram](https://github.com/rottoy/TIL/blob/main/courses/GROKKING%20THE%20SYSTEM%20DESIGN/designing-instagram.md)
+
+
+
